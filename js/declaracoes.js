@@ -69,3 +69,6 @@ let arr = [1, 2, 3];
 arr.forEach(function(each){
     console.log(each);
 });
+
+//while
+
